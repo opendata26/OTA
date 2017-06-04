@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sirius>
-            <Filename>RR-N-v5.8.3-20170523-sirius-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170604-sirius-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Latest Build">http://downloads.resurrectionremix.com/sirius/RR-N-v5.8.3-20170523-sirius-Official.zip</RomUrl>
+                description="Download Latest Build">http://downloads.resurrectionremix.com/sirius/RR-N-v5.8.3-20170604-sirius-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
-                title="IMPORTANT INFO"
-                description="">https://pastebin.com/raw/rxGyhi5f</ChangelogUrl>
+                title="Changelog"
+                description="">https://hastebin.com/comufivami.vbs</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="GApps"
