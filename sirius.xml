@@ -16,5 +16,20 @@
             	title="GApps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</sirius>
+        <castor_windy>
+            <Filename>RR-N-v5.8.3-20170605-castor_windy-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Latest Build">http://downloads.resurrectionremix.com/castor_windy/RR-N-v5.8.3-20170605-castor_windy-Official.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="">https://hastebin.com/comufivami.vbs</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="GApps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</sirius>
     </Stable>
 </SlimOTA>
