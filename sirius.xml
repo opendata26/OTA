@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sirius>
-            <Filename>RR-N-v5.8.3-20170713-sirius-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170806-sirius-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Its fast"
-                description="">h</ChangelogUrl>
+                description="">https://raw.githubusercontent.com/ResurrectionRemix/android_vendor_resurrection/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="GApps"
