@@ -2,30 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sirius>
-            <Filename>RR-N-v5.8.3-20170806-sirius-Official.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170920-sirius-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Latest Build">http://downloads.resurrectionremix.com/sirius/RR-N-v5.8.3-20170713-sirius-Official.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Its fast"
-                description="">https://raw.githubusercontent.com/ResurrectionRemix/android_vendor_resurrection/nougat/CHANGELOG.mkdn</ChangelogUrl>
-            <OpenGappsUrl
-            	id="open_gapps"
-            	title="GApps"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-	</sirius>
-        <castor_windy>
-            <Filename>RR-N-v5.8.3-20170605-castor_windy-Official.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download Latest Build">http://downloads.resurrectionremix.com/castor_windy/RR-N-v5.8.3-20170605-castor_windy-Official.zip</RomUrl>
+                description="Download Latest Build">http://downloads.resurrectionremix.com/sirius/RR-N-v5.8.4-20170920-sirius-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="">https://hastebin.com/comufivami.vbs</ChangelogUrl>
+                description="">https://ptpb.pw/wexr</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="GApps"
